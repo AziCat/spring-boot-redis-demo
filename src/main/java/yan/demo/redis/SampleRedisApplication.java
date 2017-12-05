@@ -1,4 +1,4 @@
-package yan.demo.radis;
+package yan.demo.redis;
 
 
 import org.springframework.boot.SpringApplication;

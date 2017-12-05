@@ -1,9 +1,9 @@
-package yan.demo.radis.service;
+package yan.demo.redis.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Service;
-import yan.demo.radis.util.JsonUtils;
+import yan.demo.redis.util.JsonUtils;
 
 import java.io.IOException;
 import java.util.List;

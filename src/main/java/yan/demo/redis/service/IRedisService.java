@@ -1,4 +1,4 @@
-package yan.demo.radis.service;
+package yan.demo.redis.service;
 
 import java.util.List;
 

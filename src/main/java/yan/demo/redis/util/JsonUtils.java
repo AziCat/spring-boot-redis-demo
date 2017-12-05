@@ -1,4 +1,4 @@
-package yan.demo.radis.util;
+package yan.demo.redis.util;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.core.JsonFactory;

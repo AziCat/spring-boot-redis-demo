@@ -1,11 +1,11 @@
-package yan.demo.radis.controller;
+package yan.demo.redis.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-import yan.demo.radis.service.IRedisService;
+import yan.demo.redis.service.IRedisService;
 
 import java.util.Arrays;
 

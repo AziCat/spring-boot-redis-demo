@@ -1,4 +1,4 @@
-package yan.demo.radis.config;
+package yan.demo.redis.config;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -9,8 +9,8 @@ import org.springframework.data.redis.connection.RedisConnectionFactory;
 import org.springframework.data.redis.listener.PatternTopic;
 import org.springframework.data.redis.listener.RedisMessageListenerContainer;
 import org.springframework.data.redis.listener.adapter.MessageListenerAdapter;
-import yan.demo.radis.support.OtherReceiver;
-import yan.demo.radis.support.TestReceiver;
+import yan.demo.redis.support.OtherReceiver;
+import yan.demo.redis.support.TestReceiver;
 
 import java.util.Arrays;
 
